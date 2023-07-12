@@ -1,4 +1,6 @@
-## Hi there 👋
+# Kortex Search Project
+
+A bright future for neuroscience is ready to be build.
 
 <!--
 
