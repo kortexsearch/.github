@@ -1,6 +1,6 @@
 # Kortex Search Project
 
-A bright future for neuroscience is ready to be build.
+A bright future for neuroscience is ready to be built.
 
 <!--
 
